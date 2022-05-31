@@ -1,3 +1,6 @@
+### Project description
+Cryptocurrency project
+
 ### Project setup
 ```
 npm install
